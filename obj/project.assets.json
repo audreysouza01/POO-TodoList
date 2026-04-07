@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Documentos\\FATEC\\S4\\POO\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "C:\\Users\\mredu\\OneDrive\\Área de Trabalho\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "G:\\Meu Drive\\Documentos\\FATEC\\S4\\POO\\TodoList\\TodoList.csproj",
+      "projectPath": "C:\\Users\\mredu\\OneDrive\\Área de Trabalho\\TodoList\\TodoList.csproj",
       "packagesPath": "C:\\Users\\mredu\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\Documentos\\FATEC\\S4\\POO\\TodoList\\obj\\",
+      "outputPath": "C:\\Users\\mredu\\OneDrive\\Área de Trabalho\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mredu\\AppData\\Roaming\\NuGet\\NuGet.Config"

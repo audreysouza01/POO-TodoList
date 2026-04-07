@@ -1,10 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 
+
 public class TodoController : Controller
 {
-    // http://localhost:5177/todo/getnome
-    public string GetNome()
+    // atributo:
+    private List<Todo> tasks = new List<Todo>();
+    
+    // http://localhost:1234/todo/index
+    public ActionResult Index()
     {
-        return "Audrey Souza";
+        tasks.Add(new Todo("1", "Estudar"));
+        tasks.Add(new Todo("2", "Dormir"));
+        tasks.Add(new Todo("3", "Fabricar Azulejo"));
+
+        // /Views/Todo/Index.cshtml
+        return View(tasks);
     }
 }

@@ -1,28 +1,30 @@
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\appsettings.Development.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\appsettings.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.staticwebassets.endpoints.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.exe
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.deps.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.runtimeconfig.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.dll
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\bin\Debug\net10.0\TodoList.pdb
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\rpswa.dswa.cache.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfoInputs.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfo.cs
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.csproj.CoreCompileInputs.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\rjimswa.dswa.cache.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\scopedcss\bundle\TodoList.styles.css
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\staticwebassets.build.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\staticwebassets.build.json.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\staticwebassets.development.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\swae.build.ex.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.dll
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\refint\TodoList.dll
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.pdb
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\TodoList.genruntimeconfig.cache
-G:\Meu Drive\Documentos\FATEC\S4\POO\TodoList\obj\Debug\net10.0\ref\TodoList.dll
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\appsettings.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.staticwebassets.endpoints.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.exe
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.deps.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.runtimeconfig.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.dll
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\bin\Debug\net10.0\TodoList.pdb
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.AssemblyInfo.cs
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.RazorAssemblyInfo.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.RazorAssemblyInfo.cs
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\scopedcss\bundle\TodoList.styles.css
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.dll
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\refint\TodoList.dll
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.pdb
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\TodoList.genruntimeconfig.cache
+C:\Users\mredu\OneDrive\Área de Trabalho\TodoList\obj\Debug\net10.0\ref\TodoList.dll

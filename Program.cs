@@ -1,9 +1,13 @@
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-app.MapControllerRoute("default", "{controller}/{action}"); //
+
+// Configuração do roteamento
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Todo}/{action=Index}");
 
 app.Run();
